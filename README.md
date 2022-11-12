@@ -1,0 +1,2 @@
+# algorytymy
+projekt
